@@ -11,4 +11,4 @@ I work at the [Frederick National Laboratory for Cancer Research](https://freder
 
 [![languages](metrics.plugin.languages.svg)](https://metrics.lecoq.io/insights/samarth8392)
 
-[![notable contributions](metrics.plugin.notable.svg)](https://metrics.lecoq.io/insights/samarth8392)
+[![achievements](metrics.plugin.achievements.compact.svg)](https://metrics.lecoq.io/insights/samarth8392)
