@@ -1,16 +1,14 @@
-## Hi there 👋
+### Samarth Mathur
 
-<!--
-**samarth8392/samarth8392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Samarth! I am a bioinformatics scientist with 8+ years experience in computational biology with expertise in “multi-omics” research. I analyze high throughput biomedical data from complex experimental designs to study the genetics of cancer. I have a PhD in the field of
+evolutionary genomics and computational life sciences. My technical expertise is in advanced computing, data science and statistics, UNIX-based command line tools, and programming languages like Bash, R, and Python. 
 
-Here are some ideas to get you started:
+I work at the [Frederick National Laboratory for Cancer Research](https://frederick.cancer.gov) on the [CCBR](https://github.com/ccbr) core team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### GitHub Metrics
+
+[![metrics](github-metrics.svg)](https://metrics.lecoq.io/insights/kelly-sovacool)
+
+[![languages](metrics.plugin.languages.svg)](https://metrics.lecoq.io/insights/kelly-sovacool)
+
+[![notable contributions](metrics.plugin.notable.svg)](https://metrics.lecoq.io/insights/kelly-sovacool)
