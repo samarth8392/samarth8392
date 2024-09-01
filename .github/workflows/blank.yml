@@ -42,15 +42,22 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_aliases: RenderScript:Rust, rebol:R, GLSL:JavaScript
           #plugin_languages_threshold: 2%
-      - name: Contributions
+      - name: Comment reactions
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.notable.svg
+          filename: metrics.plugin.reactions.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_notable: yes # notable contributions
-          plugin_notable_indepth: no
-          plugin_notable_repositories: yes
-          plugin_notable_self: yes
-          plugin_notable_types: commit, pull_request
-          plugin_notable_filter: "stars:>16"
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
+      - name: Compact display
+        uses: lowlighter/metrics@latest
+        with:  
+          filename: metrics.plugin.achievements.compact.svg  
+          token: ${{ secrets.METRICS_TOKEN }}  
+          base: ""  
+          plugin_achievements: yes  
+          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer,    scripter, packager, explorer, infographile, manager  
+          plugin_achievements_display: compact  
+          plugin_achievements_threshold: X
