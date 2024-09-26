@@ -5,6 +5,11 @@ evolutionary genomics and computational life sciences. My technical expertise is
 
 I work at the [Frederick National Laboratory for Cancer Research](https://frederick.cancer.gov) on the [CCBR](https://github.com/ccbr) core team.
 
+ 📫 You can reach me at  [![Linkedin Badge](https://img.shields.io/badge/-SamarthMathur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samarthmathurphd/)](https://www.linkedin.com/in/samarthmathurphd/)
+[![Email Badge](https://img.shields.io/badge/-samarth8392@gmail.com-c14438?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:samarth8392@gmail.com)](mailto:samarth8392@gmail.com)
+
+
+
 #### GitHub Metrics
 
 [![metrics](github-metrics.svg)](https://metrics.lecoq.io/insights/samarth8392)
