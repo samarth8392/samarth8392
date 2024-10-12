@@ -1,5 +1,5 @@
 ### Samarth Mathur
-
+## <img src = "https://i.pinimg.com/originals/d4/49/37/d44937b62b85771809ac74e541d55e5f.gif" width = 10%> About me
 Hi, I'm Samarth! I am a bioinformatics scientist with 8+ years experience in computational biology with expertise in “multi-omics” research. I analyze high throughput biomedical data from complex experimental designs to study the genetics of cancer. I have a PhD in the field of
 evolutionary genomics and computational life sciences. My technical expertise is in advanced computing, data science and statistics, UNIX-based command line tools, and programming languages like Bash, R, and Python. 
 
