@@ -1,12 +1,11 @@
-# <img src = "https://i.pinimg.com/originals/d4/49/37/d44937b62b85771809ac74e541d55e5f.gif" width = 10%> Samarth Mathur
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+my+Roman&weight=900&size=23&duration=4965&pause=1000&color=009F01&width=435&lines=Welcome+to+my+Github+Profile!+)](https://git.io/typing-svg)
 
 
-<img align="right" src="https://i.pinimg.com/originals/88/9d/56/889d564456c7f1dffb2b80025410895b.gif" width=42%>
+<img align="right" src="https://i.pinimg.com/originals/88/9d/56/889d564456c7f1dffb2b80025410895b.gif" width=40%>
 
 <br>
-<p style='text-align: justify;'> 
-Hi, I'm Samarth! I am a bioinformatics scientist with 8+ years experience in computational biology with expertise in “multi-omics” research. I analyze high throughput biomedical data from complex experimental designs to study the genetics of cancer. I have a PhD in the field of evolutionary genomics and computational life sciences. My technical expertise is in advanced computing, data science and statistics, UNIX-based command line tools, and programming languages like Bash, R, and Python.
-</p>
+<p style='text-align: justify;'>
+Hi, I'm Samarth! I am a bioinformatics scientist with 8+ years experience in computational biology with expertise in <i>“multi-omics” </i>research. I analyze <strong>high throughput biomedical data</strong> from complex experimental designs to study the genetics of cancer. I have a PhD in the field of evolutionary genomics and computational life sciences. My technical expertise is in advanced computing, data science and statistics, UNIX-based command line tools, and programming languages like Bash, R, and Python.</p>
 <br>
 
 I work at the [Frederick National Laboratory for Cancer Research](https://frederick.cancer.gov) on the [CCBR](https://github.com/ccbr) core team.
