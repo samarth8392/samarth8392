@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 8.92mb of code in 635 edited files across 454 commits</small>
+                <small>estimation from 8.93mb of code in 642 edited files across 455 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -99,7 +99,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 14 days</small>
+                  over last 13 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
